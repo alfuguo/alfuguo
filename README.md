@@ -22,5 +22,8 @@
 
 ### Badges
 
-<a href="https://github.com/alfuguo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfuguo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-![bottom](https://github.com/alfuguo/alfuguo/assets/137233519/d8b01e9d-d738-42b8-a9e5-5726f4f6148a)
+<a href="http://www.github.com/alfuguo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alfuguo&stroke=ffffff&background=14532d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/alfuguo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfuguo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Untitled_design](https://github.com/alfuguo/alfuguo/assets/137233519/130a98ee-681c-4cd7-8e36-a023ef246da2)
+
