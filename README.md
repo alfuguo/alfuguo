@@ -22,7 +22,7 @@
 
 ### Badges
 
-<a href="http://www.github.com/alfuguo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alfuguo&stroke=ffffff&background=14532d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <a href="https://github.com/alfuguo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfuguo&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ![Untitled_design](https://github.com/alfuguo/alfuguo/assets/137233519/130a98ee-681c-4cd7-8e36-a023ef246da2)
