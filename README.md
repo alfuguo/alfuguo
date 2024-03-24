@@ -1,5 +1,6 @@
 
-![hey,_I’m_Al](https://github.com/alfuguo/alfuguo/assets/137233519/3af82cab-774b-46bc-893b-3f21bb62d83a)
+
+![hey,_I’m_Al](https://github.com/alfuguo/alfuguo/assets/137233519/4b07a95e-307a-4941-9483-d5b83c98f70c)
 
 
 * 🌍  I'm based in United States
