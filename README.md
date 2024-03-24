@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Al Fu
-=============================================================================================================================
+
+![hey,_I’m_Al](https://github.com/alfuguo/alfuguo/assets/137233519/3af82cab-774b-46bc-893b-3f21bb62d83a)
+
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [al.fuguo@gmail.com](mailto:al.fuguo@gmail.com)
@@ -21,3 +22,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Badges
 
 <a href="https://github.com/alfuguo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfuguo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![bottom](https://github.com/alfuguo/alfuguo/assets/137233519/d8b01e9d-d738-42b8-a9e5-5726f4f6148a)
